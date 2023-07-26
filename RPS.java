@@ -14,7 +14,7 @@ public class RPS extends JFrame implements ActionListener {
     private JButton scissorsButton;
 
     // 'ai' instance for AI's choice prediction
-    private ai ai_leaarning;
+    private ai ai_leaaarning;
 
     // Variables to keep track of user and computer scores
     private int userScore;  // Moved to be an instance variable
